@@ -4,3 +4,4 @@ this 3rd is edited from central repository
 editing file in feature1 from repository
 Adding text from local
 editing line from local to feature2
+showing the rebase operation
